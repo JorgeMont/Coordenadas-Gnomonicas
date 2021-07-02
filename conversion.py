@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 from math import *
 #Importamos todo de math 
+print("aaaaa")
+print("bbbbbbb")
 file = open('caneva2.txt','r')
 nuevo = open('nuevo.txt', 'w')
 #Abre archivo y lo lee, escribira uno nuevo
